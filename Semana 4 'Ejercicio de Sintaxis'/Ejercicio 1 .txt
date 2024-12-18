@@ -1,0 +1,14 @@
+1. Experimente haciendo sumas entre distintos tipos de datos y apunte los resultados.
+    1. Si le salen errores, **no se asuste.** Lealos e intente comprender qué significan.
+    *Los errores son oportunidades de aprendizaje.*
+    2. Por ejemplo:
+        1. string + string → Une las dos variables de texto.
+        2. string + int → Da error, solo se puede concatenar str con str.
+        3. int + string → Da error, no se permite unir un numero entero con una cadena de texto.
+        4. list + list → Suma los datos dentro de las diferentes listas en un solo
+        5. string + list → Da error, no se permite unir una lista con una cadena de texto
+        6. float + int → Suma el numero con decimal con el numero entero.
+        7. bool + bool → Si se suman 
+            1. True + False = 1
+            2. True + True = 2
+            3. False + False = 0
