@@ -1,0 +1,16 @@
+close ()	Lee y retorna todo el contenido del archivo
+detach ()	Devuelve los datos en su forma sin procesar.
+fileno()	Retorna el número asignado por el sistema operativo asociado al flujo de datos.
+flush()	“Vacía” el buffer asegurando que los archivos se envíen al destino.
+read()	Retorna los datos del archivo.
+readable()	Verifica si los datos son legibles antes de intentarlo
+readlines()	Lee todo el contenido del archivo y retorna una lista con cada línea.
+readline()	Permite obtener todas las líneas de un archivo en forma de lista.
+seek()	Permite la movilidad del archivo.
+seekable()	Verifica si el archivo tiene posibilidad de reposicionar.
+tell()	Retorna la ubicación actual del archivo.
+truncate()	Permite redimensionar el tamaño de un archivo o flujo de datos.
+writable()	Verifica si el archivo tiene posibilidad de ser escrito o no.
+write()	Escribe contenidos en un archivo.
+writelines()	Escribe todas las cadenas de una lista en el archivo, sin añadir saltos de línea automáticamente.
+Isatty()	Verifica si los datos son interactivos.

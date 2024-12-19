@@ -1,0 +1,6 @@
+Experimente con el concepto de scope:
+1. Intente accesar a una variable definida dentro de una función desde afuera.
+       No se puede acceder a una variable local fuera de la misma estructura de la funcion, por ende desde afuera no se puede accesar.
+
+2. Intente accesar a una variable global desde una función y cambiar su valor.
+       Cuando intenté modificar una variable global desde una función el única respuesta que tuve fue crear una nueva variable con el mismo nombre pero con otro valor dentro la función, por fuera de la función se mantenía el valor primitivo.
